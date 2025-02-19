@@ -35,3 +35,4 @@ import {TransientContext, TransientReentrancyAware} from "transience/src/Transie
 ## Contribute & Feedback
 
 Feel free to raise an issue, suggest a feature, or even fork the repository for personal tweaks. If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
+This project is a demonstration of blockchain technology and smart contract integration.
